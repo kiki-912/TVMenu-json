@@ -12,7 +12,7 @@
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
   "color": "#000000",
   "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/TikTok_logo.png"
-},
+  },
   {
     "name": "TelePlay WorldTV2",
     "package": "com.worldtv2.android.exoplayer2.tv2",
