@@ -1,10 +1,10 @@
 [
   {
     "name": "MAGIS TV",
-    "package": "com.tulix.magis",
-    "downloadUrl": "https://www.magis.tv/",
+    "package": "com.android.mgstv",
+    "downloadUrl": "https://www.mediafire.com/file/wx6jc6psspmkzlm/signMagisTV_TGMGS-1.apk/file",
     "color": "#FF5722",
-    "iconUrl": "https://i.imgur.com/8Qq7NpL.png",
+    "iconUrl": "https://i.imgur.com/I6USyNy.jpeg",
     "column": 0,
     "row": 0
   },
@@ -19,46 +19,46 @@
   },
   {
     "name": "TelePlay WorldTV2",
-    "package": "com.teleplay.app",
-    "downloadUrl": "https://www.teleplay.app/",
+    "package": "com.worldtv2.android.exoplayer2.tv2",
+    "downloadUrl": "https://www.mediafire.com/file/foc9gwsgsg0bdwd/worldtv2_3.0.7.apk/file",
     "color": "#009688",
-    "iconUrl": "https://i.imgur.com/sF0MQGA.png",
+    "iconUrl": "https://i.imgur.com/stf9Ex0.jpeg",
     "column": 1,
     "row": 0
   },
   {
     "name": "TV ONLI",
-    "package": "com.tvonli.android",
-    "downloadUrl": "https://www.tvonli.com/",
+    "package": "com.google.android.tvonline.tvonline2",
+    "downloadUrl": "https://www.mediafire.com/file/b8k7bxy8lqiis2d/TVONLINE2_%25282%2529.apk/file",
     "color": "#3F51B5",
-    "iconUrl": "https://i.imgur.com/4Y3tPQ9.png",
+    "iconUrl": "https://i.imgur.com/TH4OJga.jpeg",
     "column": 2,
     "row": 0
   },
   {
     "name": "PLAY TV+",
-    "package": "com.playtv.app",
-    "downloadUrl": "https://www.playtv.com/",
+    "package": "com.google.android.playtv.playtv",
+    "downloadUrl": "https://www.mediafire.com/file/ffxsknph52122iq/Play_TV%252B__v1.0.1Mod.apk/file",
     "color": "#E91E63",
-    "iconUrl": "https://i.imgur.com/ERk7zjL.png",
+    "iconUrl": "https://i.imgur.com/X0jWCh2.jpeg",
     "column": 3,
     "row": 0
   },
   {
     "name": "FILM APP",
-    "package": "com.filapp.android",
-    "downloadUrl": "https://www.filapp.com/",
+    "package": "com.digitalproshare.filmapp",
+    "downloadUrl": "https://www.mediafire.com/file/urngnf09typ3hjs/Film_App_v4.4.7.apk/file",
     "color": "#9C27B0",
-    "iconUrl": "https://i.imgur.com/U8HZzF1.png",
+    "iconUrl": "https://i.imgur.com/Vb4b3wU.jpeg",
     "column": 4,
     "row": 0
   },
   {
     "name": "MAGMA",
-    "package": "com.magma.tv",
-    "downloadUrl": "https://www.magma.tv/",
+    "package": "com.magmaplayer",
+    "downloadUrl": "https://www.mediafire.com/file/xjgx5s1pdo1et14/Magma1.0.7Vip.apk/file",
     "color": "#607D8B",
-    "iconUrl": "https://i.imgur.com/8iY9AfL.png",
+    "iconUrl": "https://i.imgur.com/d0K0nbk.jpeg",
     "column": 5,
     "row": 0
   },
