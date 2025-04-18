@@ -1,23 +1,23 @@
 [
   {
-    "nombre": "TelePlay WorldTV2",
-    "paquete": "com.worldtv2.android.exoplayer2.tv2"
+    "name": "TelePlay WorldTV2",
+    "package": "com.worldtv2.android.exoplayer2.tv2"
   },
   {
-    "nombre": "TV ONLI",
-    "paquete": "com.google.android.tvonline.tvonline2"
+    "name": "TV ONLI",
+    "package": "com.google.android.tvonline.tvonline2"
   },
   {
-    "nombre": "PlayTv+",
-    "paquete": "com.google.android.playtv.playtv"
+    "name": "PlayTv+",
+    "package": "com.google.android.playtv.playtv"
   },
   {
-    "nombre": "Film App",
-    "paquete": "com.digitalproshare.filmapp"
+    "name": "Film App",
+    "package": "com.digitalproshare.filmapp"
   },
   {
-    "nombre": "Magma",
-    "paquete": "com.magmaplayer"
+    "name": "Magma",
+    "package": "com.magmaplayer"
   }
 
 ]
