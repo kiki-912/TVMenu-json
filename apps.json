@@ -1,6 +1,6 @@
 [
   {
-    "name": "MAGIS",
+    "name": "MAGIS TV",
     "package": "com.tulix.magis",
     "downloadUrl": "https://www.magis.tv/",
     "color": "#FF5722",
@@ -18,7 +18,7 @@
     "row": 1
   },
   {
-    "name": "TELEPLAY",
+    "name": "TelePlay WorldTV2",
     "package": "com.teleplay.app",
     "downloadUrl": "https://www.teleplay.app/",
     "color": "#009688",
@@ -36,7 +36,7 @@
     "row": 0
   },
   {
-    "name": "PLAY TV",
+    "name": "PLAY TV+",
     "package": "com.playtv.app",
     "downloadUrl": "https://www.playtv.com/",
     "color": "#E91E63",
@@ -45,7 +45,7 @@
     "row": 0
   },
   {
-    "name": "FIL APP",
+    "name": "FILM APP",
     "package": "com.filapp.android",
     "downloadUrl": "https://www.filapp.com/",
     "color": "#9C27B0",
