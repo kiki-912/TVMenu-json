@@ -1,52 +1,38 @@
 [
   {
-    [
-  {
     "name": "Magis TV",
     "package": "com.magistv",
     "color": "#FF9800",
     "downloadUrl": "https://www.mediafire.com/file/wx6jc6psspmkzlm/signMagisTV_TGMGS-1.apk/file"
-  }
-]
-
-[
+  },
   {
     "name": "TelePlay WorldTV2",
     "package": "com.worldtv2.android.exoplayer2.tv2",
     "color": "#9C27B0",
     "downloadUrl": "https://www.mediafire.com/file/foc9gwsgsg0bdwd/worldtv2_3.0.7.apk/file"
-  }
-]
-
   },
-  {
-    [
   {
     "name": "TV ONLI",
     "package": "com.google.android.tvonline.tvonline2",
     "color": "#23D12B",
-    "downloadUrl": "https://www.mediafire.com/file/b8k7bxy8lqiis2d/TVONLINE2_%25282%2529.apk/file"
-  }
-]
-
+    "downloadUrl": "https://www.mediafire.com/file/b8k7bxy8lqiis2d/TVONLINE2_%282%29.apk/file"
   },
   {
     "name": "PlayTv+",
-    "package": "com.google.android.playtv.playtv"
+    "package": "com.google.android.playtv.playtv",
     "color": "#FF0000",
-    "downloadUrl": "https://www.mediafire.com/file/ffxsknph52122iq/Play_TV%252B__v1.0.1Mod.apk/file"
+    "downloadUrl": "https://www.mediafire.com/file/ffxsknph52122iq/Play_TV%2B__v1.0.1Mod.apk/file"
   },
   {
     "name": "Film App",
-    "package": "com.digitalproshare.filmapp"
+    "package": "com.digitalproshare.filmapp",
     "color": "#0B75C7",
     "downloadUrl": "https://www.mediafire.com/file/urngnf09typ3hjs/Film_App_v4.4.7.apk/file"
   },
   {
     "name": "Magma",
-    "package": "com.magmaplayer"
+    "package": "com.magmaplayer",
     "color": "#FFC107",
     "downloadUrl": "https://www.mediafire.com/file/xjgx5s1pdo1et14/Magma1.0.7Vip.apk/file"
   }
-
 ]
