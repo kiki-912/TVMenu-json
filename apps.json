@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "TelePlay WorldTV2",
+    "paquete": "com.worldtv2.android.exoplayer2.tv2"
+  },
+  {
+    "nombre": "TV ONLI",
+    "paquete": "com.google.android.tvonline.tvonline2"
+  },
+  {
+    "nombre": "PlayTv+",
+    "paquete": "com.google.android.playtv.playtv"
+  },
+  {
+    "nombre": "Film App",
+    "paquete": "com.digitalproshare.filmapp"
+  },
+  {
+    "nombre": "Magma",
+    "paquete": "com.magmaplayer"
+  }
+
+]
