@@ -9,11 +9,11 @@
     "row": 0
   },
   {
-    "name": "tvonline3",
-    "package": "com.zhiliaoapp.musically",
-    "downloadUrl": "https://www.tiktok.com/",
+    "name": "SmartTube",
+    "package": "com.teamsmart.videomanager.tv",
+    "downloadUrl": "https://www.mediafire.com/file/s3atcvl81qlubn6/smarttube_stable.apk/file",
     "color": "#000000",
-    "iconUrl": "https://i.imgur.com/I2J6jRQ.png",
+    "iconUrl": "https://imgur.com/a/qq0UmLW",
     "column": 0,
     "row": 1
   },
