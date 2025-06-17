@@ -62,4 +62,22 @@
     "column": 5,
     "row": 0
   },
+  {
+    "name": "Pollito TV",
+    "package": "com.pollitovtv",
+    "downloadUrl": "https://www.mediafire.com/file/jpw981ektvrk17u/PollitoTv_30.0_Mod.apk/file",
+    "color": "#f8e2b0",
+    "iconUrl": "https://i.imgur.com/EWJvdf3.png",
+    "column": 1,
+    "row": 1
+  },
+  {
+    "name": "RB Eventos",
+    "package": "com.rb",
+    "downloadUrl": "https://www.mediafire.com/file/xuo4grkmn0q4a81/RBTV77%2528TV%2529_v1.0.62_mod.apk/file",
+    "color": "#fcbd4a",
+    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
+    "column": 2,
+    "row": 1
+  },
 ]
