@@ -80,4 +80,23 @@
     "column": 2,
     "row": 1
   },
+  {
+    "name": "FCTV33",
+    "package": "com.fctv",
+    "downloadUrl": "https://www.mediafire.com/file/33n28j7cxqdm8pm/FCTV33%2528TV%2529_v3.0.306_tv_vip.apk/file",
+    "color": "#fcbd4a",
+    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
+    "column": 3,
+    "row": 1
+  },
+  {
+    "name": "TV CLASICA",
+    "package": "com.tvclasica",
+    "downloadUrl": "https://www.mediafire.com/file/s6nb5c9wo6f9nwv/TVCLASICA100.apk/file",
+    "color": "#fcbd4a",
+    "iconUrl": "https://i.imgur.com/M99OhpZ.jpeg",
+    "column": 4,
+    "row": 1
+  },
 ]
+
